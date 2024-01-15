@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development 
 - 🌱 I’m currently learning Unity , C#
 - 📫 How to reach me : message me on Instagram , Telegram or another social medial.
-- https://frostflackdev.aqulas.me/
+- https://linktr.ee/FrostFlak
 
 <!---
 FrostFlack/FrostFlack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
