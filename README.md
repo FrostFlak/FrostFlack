@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrostFlack
+- 👋 Hi, I’m @FrostFlak
 - 👀 I’m interested in Game Development 
 - 🌱 I’m currently learning Unity , C#
 - 📫 How to reach me : message me on Instagram , Telegram or another social medial.
